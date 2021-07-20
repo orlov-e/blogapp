@@ -1,0 +1,19 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "blog application with react, nodejs, express, mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlov-e/blogapp.git"
+  },
+  "author": "Eugene Orlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlov-e/blogapp/issues"
+  },
+  "homepage": "https://github.com/orlov-e/blogapp#readme"
+}
